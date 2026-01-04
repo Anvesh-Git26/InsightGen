@@ -19,7 +19,7 @@ This project demonstrates the integration of **Large Language Models (LLMs)** in
 
 *Asking the agent to analyze a sales dataset for profitability:*
 
-![InsightGen Demo](demo_result.png)
+![InsightGen Demo](demo_result.png.png)
 
 ---
 
